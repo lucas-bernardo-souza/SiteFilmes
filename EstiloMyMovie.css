@@ -1,0 +1,74 @@
+.container{
+    margin: 200; auto; max-width: 760px:
+}
+.cabeçalho{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+    color: white;
+}
+header{
+    padding: 0px 0;
+    text-align: center;
+    background: black;
+}
+header li{
+    display: inline-block;
+    margin: 0 70px;
+}
+header h1{
+    text-decoration: none;
+    color: white
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+.filme{
+    background-color: #fff;
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.filme h2{
+    border-bottom: 1.5px dashed #4a4d4e;
+    
+}
+.filme a{
+    color: #110f55;
+    font-weight: bold;
+}
+.filme img{
+    border: 1px solid #4a4d4e;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+.menu{
+    background-color: #4a4d4e;
+    border: 1px solid black;
+    float: right;
+    padding: 10px;
+    width: 260px;
+    color: white;
+}
+.menu h3{
+    color: white
+    font-size: 16px;
+    margin-top: 0;
+}
+.menu ol{
+    font-size: 14px;
+}
+.menu a{
+    color: black;
+}
+.filmes{
+    float: left;
+    width: 660px;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+}
